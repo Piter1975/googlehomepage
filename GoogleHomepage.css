@@ -1,0 +1,202 @@
+.kopteksten {
+font-family: arial;
+font-size: 13px;
+color: black;
+float: right;
+display: block;
+height: 40px;
+width: 100%;
+text-align: right;
+padding: 0px 10px 10px 10px; 
+margin: 10px auto;
+
+}
+
+#Gmail {
+    
+    text-align: center;
+    height: 30px;
+}
+
+#Ofbyldings {
+    padding: 10px 0px;
+}
+
+#GoogleApps {
+    width: 35px;
+    height: 15px;
+}
+
+
+#Oanmelde {
+    width: 62px;
+}
+.zoekgedeelte {
+    height: 600px;
+    text-align: center;
+    box-sizing: border-box;
+    display: block;
+    padding-top: 120px;
+    padding-bottom: 100px;
+
+}
+
+#invoergedeelte {
+    height: 70px;
+    box-sizing: border-box;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+input#Inv1 {
+    border-radius: 15px;
+    height: 40px;
+    border-width: 1px;
+    border-color: rgb(234,234,234);
+    background-color: rgb(255,255,255);
+    
+    
+}
+
+#actieknoppen{
+    height: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+input#Knop1{
+    height: 35px;
+    font-family: arial, sans-serif;
+    background-color: rgb(234,234,234);
+    border-width: 0px;
+    border-radius: 5px;
+    width: 150px;
+    font-size: 14px;
+    
+}
+
+input#Knop2{
+    height: 35px;
+    font-family: arial, sans-serif;
+    background-color: rgb(234,234,234);
+    border-width: 0px;
+    border-radius: 5px;
+    width: 150px;
+    font-size: 14px;
+    
+}
+
+.taalwisselknop, h1  {
+    font-family: arial, sans-serif;
+    font-size: 12px;
+    font-weight: unset;
+    display: inline;
+    height: 20px;
+    width: 100px;
+    display: inline;
+    
+}
+
+#Taal {
+    color: darkblue;
+}
+
+#Aanmelden{
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    
+}
+
+
+.topvoet {
+    bottom: 0;
+    font-weight: normal;
+    Display: block;
+    width: 97%;
+    background-color: rgb(242,242,242);
+    padding: 0px 25px 12px 25px;
+    color: dimgray;
+    border-top-style: solid;
+    border-color: rgb(210,210,210);
+    border-top-width: thin;
+    height: 27px;
+    font-size: 15px;
+    
+    
+}
+
+.bodemvoet { 
+    bottom: 0;
+    height:27px;
+    font-family: Arial;
+    font-size: 14px;
+    text-align: center;
+    color: rgb(95,95,95);
+    font-weight: 10;
+    background-color: rgb(242,242,242);
+    border-top-style: solid;
+    border-color: rgb(210,210,210);
+    border-top-width: thin;
+    display: block;
+    padding: 8px 25px 0px 25px;
+    width: 97%;
+   
+  
+}
+
+
+#Adverteren {
+    float: left;
+    padding: 0px 10px 0px 0px;
+}   
+
+#Bedrijf {
+    float: left;   
+    padding: 0px 10px;     
+    
+}
+
+
+#Over {
+    float: left;
+    padding: 0px 10px;
+    
+}
+
+#Instellingen {
+    float: right;
+    padding: 0px 10px;
+    
+}
+
+#Voorwaarden {
+    float: right;   
+    padding: 0px 10px; 
+    
+}
+
+#Privacy {
+    float: right;
+    padding: 0px 10px;
+   
+}  
+
+a:link{
+    color: black;
+    text-decoration: none;
+}
+
+a:visited{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+a:active{
+    color: red;
+}

@@ -1,1 +1,2 @@
-# googlehomepage
+This is my first actual project in "The Odin Project. I will try to build the google homepage with HTML and CSS. The result will be an exact copy of the actual homepage.
+ From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
